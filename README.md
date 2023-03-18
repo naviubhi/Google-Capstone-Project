@@ -8,4 +8,4 @@ For this project, I used Cyclistic’s historical trip data to analyze and ident
 Below are links to everything related to this project:
 * [Process_and_Analysis.R](https://github.com/naviubhi/Google-Capstone-Project/blob/main/Process_and_Analysis.R)
 * [Tableau Dashboard](https://public.tableau.com/app/profile/navi1382/viz/GoogleAnalyticsBikeCaseStudy/Dashboard2)
-* [Case Study Analysis & Findings}(https://medium.com/@naviubhi29/test-42d151cba647)
+* [Case Study Analysis & Findings](https://medium.com/@naviubhi29/test-42d151cba647)
